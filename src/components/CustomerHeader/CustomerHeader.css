@@ -1,0 +1,12 @@
+.customer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.customer-header h1 {
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--text-color);
+}
